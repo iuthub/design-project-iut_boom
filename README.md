@@ -8,7 +8,8 @@ Sukhobjon Kurbonov u1610236
 Shokhijakhon Nishonov u1610227
 Sarvarkhon Khujaev u1610209
 
-Github: https://github.com/AbuBakrr/mycareer
+original repo in Github -> iuthub : https://github.com/iuthub/design-project-iut_boom/
+extra repo Github: https://github.com/AbuBakrr/mycareer
 Admin:
 Username:suxrob.ielts@mail.ru
 Password:12345678
