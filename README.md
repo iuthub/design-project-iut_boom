@@ -1,5 +1,19 @@
-# Internet Programming: Design Project Assignment
+MyCareer
+Motto:
+“Your employment is important for us”
+Done by:
+Navruzbek Noraliev u1610166
+Abu-bakr Jabbarov u1610012
+Sukhobjon Kurbonov u1610236
+Shokhijakhon Nishonov u1610227
+Sarvarkhon Khujaev u1610209
 
-Find `ip_design_project.pdf` file in this folder, and refer to all the instructions given there. 
-
-You have to submit your project into this repository before 06.05.2018.
+Github: https://github.com/AbuBakrr/mycareer
+Admin:
+Username:suxrob.ielts@mail.ru
+Password:12345678
+User:
+Username:sarvar@gmail.com
+Password:Hunter&06
+https://mycareer.epizy.com
+http://abubakr0609.000webhostapp.com.
