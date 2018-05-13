@@ -5,7 +5,7 @@ Done by:
 Navruzbek Noraliev u1610166
 Abu-bakr Jabbarov u1610012
 Sukhobjon Kurbonov u1610236
-Shokhijakhon Nishonov u1610227
+Shokhjakhon Nishonov u1610227
 Sarvarkhon Khujaev u1610209
 
 original repo in Github -> iuthub : https://github.com/iuthub/design-project-iut_boom/
