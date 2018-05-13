@@ -1,0 +1,16 @@
+.panel-default>.panel-heading{
+	background-color: #424242;
+	color: white;
+}
+.btn{
+	background-color: #D4424F;
+	color: white;
+	border-color: #D4424F;
+}
+.btn:hover{
+	background-color: #D4424F;
+	color: #ddd;
+}
+.container{
+	margin-top: 20px;
+}

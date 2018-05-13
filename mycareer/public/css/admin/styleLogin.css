@@ -1,0 +1,24 @@
+.container{
+position: relative;
+margin-top: 100px;
+}
+.row{
+	margin-top:20px;
+}
+
+.input-group{
+	margin-bottom: 20px;
+}
+
+.fb {
+  background-color: #3B5998;
+  color: white;
+min-width: 49%;
+
+}
+.google{
+	background-color: #dd4b39;
+	color: white;
+	float: right;
+	min-width: 49%;
+}

@@ -1,0 +1,252 @@
+@extends('layouts.app')
+
+@section('content')
+    <div class="container-bckg">
+        <div class="container" >
+            <div class="row">
+               <div class="col-sm-8">
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                      <!-- Indicators -->
+                      <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                      </ol>
+                
+                      <!-- Wrapper for slides -->
+                      <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                          <img src="images/1.jpg" alt="Image">
+                          <div class="carousel-caption">
+                            <h2>Find your dream job!</h2>
+                            <p>We are looking for talented people</p>
+                          </div>      
+                        </div>
+                
+                        <div class="item">
+                          <img src="images/2.jpg" alt="Image">
+                          <div class="carousel-caption">
+                            <h2>Join Us!</h2>
+                            <p>We are looking for talented people</p>
+                          </div>      
+                        </div>
+                        
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+          
+        </div>
+        
+      </div>
+      <div class="col-sm-4">
+        <a href="#" class="div-href">
+        <div class="well background-stat" >
+    
+          <img class="stat-icons" src="images/actual.png" alt="">
+          <div class="stat-info">
+            <b>1000+</b>
+          </div>
+          <div class="stat-title">
+                    Actual number of available jobs
+          </div>
+        </div>
+        </a>
+        <a href="#" class="div-href">
+    <div class="well background-stat">
+          <img class="stat-icons" src="images/resume.png" alt="">
+          <div class="stat-info">
+            <b>500+</b>
+          </div>
+          <div class="stat-title">
+                    Resumes
+          </div>
+        </div>
+      </a>
+      <a href="#" class="div-href">
+    <div class="well background-stat">
+          <img class="stat-icons" src="images/companies.png" alt="">
+          <div class="stat-info">
+            <b>100+</b>
+          </div>
+          <div class="stat-title">
+                    Partner companies
+          </div>
+        </div>
+      </a>
+      </div>
+    </div>
+    <hr>
+    </div>
+    </div>
+    <div class="row text-center category-header">
+      <h1>Job Categories</h1>
+    </div>
+    <div class="row container-fluid text-center">
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/market.png" class="category-imgs" alt="">
+        <h4 class="job-title">Trade & Commerce</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/Logistics.png" class="category-imgs" alt="">
+        <h4 class="job-title">Transport & Logistics</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/constructing.png" class="category-imgs" alt="">
+        <h4 class="job-title">Construction</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/food.png" class="category-imgs" alt="">
+        <h4 class="job-title">Bars & Restaurants</h4>
+      </div>
+      </a>
+    </div>
+    <div class="row container-fluid text-center">
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/finance.png" class="category-imgs" alt="">
+        <h4 class="job-title">Accountancy & Finance</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/security.png" class="category-imgs" alt="">
+        <h4 class="job-title">Security & Protection</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/fitness.png" class="category-imgs" alt="">
+        <h4 class="job-title">Beauty & Fitness</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/travel.png" class="category-imgs" alt="">
+        <h4 class="job-title">Tourism & Entertainment</h4>
+      </div>
+      </a>
+    </div>
+    <div class="row container-fluid text-center">
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/education.png" class="category-imgs" alt="">
+        <h4 class="job-title">Education</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/theatre.png" class="category-imgs" alt="">
+        <h4 class="job-title">Art & Culture</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="public/images/hospital-sign.png" class="category-imgs" alt="">
+        <h4 class="job-title">Medicine & Pharmacy</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="images/programming-code-signs.png" class="category-imgs" alt="">
+        <h4 class="job-title">IT & Telecommuncation</h4>
+      </div>
+      </a>
+    </div>
+    <div class="row container-fluid text-center">
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="images/seo-performance-marketing-graphic.png" class="category-imgs" alt="">
+        <h4 class="job-title">Marketing & Design</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="images/barcode-lines.png" class="category-imgs" alt="">
+        <h4 class="job-title">Production</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="images/student-on-computer.png" class="category-imgs" alt="">
+        <h4 class="job-title">Internship</h4>
+      </div>
+      </a>
+      <a href="#" class="category-href">
+      <div class="col-sm-3 category-div">
+        <img src="images/print-products-outline-made-of-different-lines.png" class="category-imgs" alt="">
+        <h4 class="job-title">Others</h4>
+      </div>
+      </a>
+    </div>
+    <div id="modal-wrapper" class="modal"> 
+        <form action="" class="modal-content animate">
+          <div class="imgcontainer">
+            <h1 id="popup_title">Registration Form</h1>
+            <span class="close">&times;</span>
+          </div>
+          <div class="modal-container">
+            <input type="text" placeholder="First Name" name="fname">
+            <input type="text" placeholder="Second Name" name="sname">
+            <input type="text" placeholder="E-Mail" name="email">
+            <input type="text" placeholder="password" name="password">
+          </div>
+        </form>
+      </div>
+    
+      <footer id="myFooter">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-3 myCols">
+                <h5>Navigation</h5> 
+                <ul>
+                  <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> About Us</a></li>
+                  <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> Services & Products</a></li>
+                  <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> Map</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-3 myCols">
+                <h5>Help</h5>
+                  <ul>
+                    <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> Contact Us</a></li>
+                    <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> Advanced Search</a></li>
+                    <li><i class="glyphicon glyphicon-chevron-right"></i><a href="#"> F.A.Q</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-6">
+                <div class="row">
+                <h5>About the project</h5>
+                <p> MyCareer.uz is an internet platform, which can help employee and employeers to interact each other. Moreover, students also have chance to find internship programs. </p>
+                </div>
+                  <div class="row">
+                  <div class="social-networks">
+                    <div class="col-sm-6 col-lg-6 col-md-6" >     
+                      <a href="#" ><img src="images/fb.png" class="category-imgs smaller" alt=""></a>
+                      <a href="#" ><img src="images/instagram-logo.png" class="category-imgs smaller" alt=""></a>
+                      <a href="#" ><img src="images/telegram-logo.png" class="category-imgs smaller" alt=""></a>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+                </div>
+            </div>
+            <div class="footer-copyright">
+              <p>copyright IP project </p>
+            </div>
+    </footer>
+    <script src="myscript.js"></script>
+      <script src="modal.js"></script>
+
+</div>
+@endsection

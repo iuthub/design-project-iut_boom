@@ -1,0 +1,110 @@
+.posts-header{
+	font-size: 20px;
+	text-align: center;
+}
+.listview{
+	border-radius: 6px;
+
+	box-shadow: 0 1px 12px 0 rgba(0,0,0,.17);
+	padding: 15px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	display: block;
+	
+}
+.header-image{
+	width: 200px;
+	height: 200px;
+	border-radius: 6px;
+}
+.row-listview{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.a-lv{
+	color: #000;
+	text-decoration: none;
+	font-size: 20px;
+}
+.a-lv:hover{
+	text-decoration: none;
+	color: #555;
+}
+.title-lv{
+	color: #fff;
+	font-size: 20px;
+}
+.icon-job{
+	width: 17px;
+	height: 17px;
+}
+.company-lv{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.salary-lv{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.location-lv{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.row-lv-description{
+	display: inline-block;
+	margin-top: 15px;
+	word-wrap: break-word;
+	overflow-x: hidden;
+	font-size: 15px;
+	padding: 15px;
+	padding-top: 0px;
+}
+.more-btn{
+	border-radius: 4px;
+	background-color: #D4424F;
+	width: 130px;
+	height: 34px;
+	display: block;
+	position: absolute;
+	color: #fff;
+	text-align: center;
+	line-height: 34px;
+	bottom: 0;
+	right: 15px;
+}
+
+.more-btn:hover{
+	text-decoration: none;
+	background-color: #424242;
+	color: #fff;
+}
+
+label{
+
+
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #ddd;
+	font-size: 20px;
+	font-family: Calibri;
+}	
+.salary-range1{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+
+}
+.salary-range2{
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
