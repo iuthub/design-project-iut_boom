@@ -6,7 +6,7 @@ Navruzbek Noraliev u1610166
 Abu-bakr Jabbarov u1610012
 Sukhobjon Kurbonov u1610236
 Shokhjakhon Nishonov u1610227
-Sarvarkhon Khujaev u1610209
+Sarvarkhon Khujaev u1610200
 
 original repo in Github -> iuthub : https://github.com/iuthub/design-project-iut_boom/
 extra repo Github: https://github.com/AbuBakrr/mycareer
